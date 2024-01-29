@@ -1,0 +1,3 @@
+<template>
+	<Tarea/>
+</template>
